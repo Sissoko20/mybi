@@ -10,27 +10,27 @@ def parse_ubipharm_txt(txt_content):
 
     for line in lines:
         # Détecter la région
-        region_match = re.search(r'Pays/R[�e]gion\s+\d+/\w+\s+(.*)', line)
+        region_match = re.search(r'Pays/R[ée]gion\s+\d+/\w+\s+(.*)', line)
         if region_match:
             region = region_match.group(1).strip()
 
-        # Détecter les lignes produit
-        product_match = re.match(r'\s+([A-Z0-9]+)\s+(.+?)\s+([\d/ ]+)\s+([\d ]+)', line)
+        # Détecter les lignes produit avec colonnes explicites
+        product_match = re.match(
+            r'\s+([A-Z0-9]+)\s+(.+?)\s+([\d/ ]+)\s+(\d+)\s+(\d+)\s+(\d+)\s+(\d+)\s+(\d+)\s+(\d+)\s+(\d+)',
+            line
+        )
         if product_match:
             code = product_match.group(1).strip()
             name = product_match.group(2).strip()
             stock_cr = product_match.group(3).strip()
-            sales_raw = product_match.group(4).strip()
-
-            # Nettoyer les ventes
-            sales = [int(s) if s.isdigit() else 0 for s in sales_raw.split()]
-            while len(sales) < 7:
-                sales.append(0)
 
             # Extraire stock et CR
             stock_match = re.match(r'(\d+)?/?\s*(\d+)?', stock_cr)
             stock = int(stock_match.group(1)) if stock_match and stock_match.group(1) else None
             cr = int(stock_match.group(2)) if stock_match and stock_match.group(2) else None
+
+            # Colonnes ventes (11/25, M-1 … M-6)
+            sales = [int(product_match.group(i)) for i in range(4, 11)]
 
             data.append({
                 "Région": region,

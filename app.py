@@ -4,7 +4,7 @@ import importlib
 from streamlit_option_menu import option_menu
 
 # Charger config TOML
-config = toml.load("config.toml")
+config = toml.load(".streamlit/config.toml")
 menu_conf = config["menu"]
 
 # Menu horizontal
