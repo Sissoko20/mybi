@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import re
+from io import BytesIO
 
 def parse_ubipharm_txt(txt_content):
     lines = txt_content.splitlines()
@@ -57,6 +58,15 @@ def run():
         st.success("✅ Fichier parsé avec succès")
         st.dataframe(df)
 
-        # Export CSV
-        csv = df.to_csv(index=False).encode("utf-8")
-        st.download_button("📥 Télécharger CSV", csv, "ventes_refactorées.csv", "text/csv")
+        # Export Excel
+        output = BytesIO()
+        with pd.ExcelWriter(output, engine="openpyxl") as writer:
+            df.to_excel(writer, index=False, sheet_name="Ventes")
+        excel_data = output.getvalue()
+
+        st.download_button(
+            label="📥 Télécharger Excel",
+            data=excel_data,
+            file_name="ventes_refactorées.xlsx",
+            mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        )
