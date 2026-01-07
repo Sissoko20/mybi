@@ -1,0 +1,273 @@
+ UbiPharm Mali                           PRDF870              Statistiques PAYS / Région                                        Le  8.12.25  à  19:17:43    Page   1
+ Pays/Région  232/A  BAMAKO RIVE DROITE
+                                                                                            Ventes
+ Fournisseur                     Produit                                Stocks / CR          11/25      M-1      M-2      M-3      M-4      M-5      M-6
+ ------------------------------  -------------------------------------- ---------------    -------- -------- -------- -------- -------- -------- --------
+ PLANETPHARMA DISTRI UE HORS FR
+                                 ALCO237 ALCOF-C SP F/100ML                    /   2040         86      205       60       33       50       70       56
+                                 ALFO101 ALFOSA 35MG CPR B/4                163/
+                                 ALFO102 ALFOSA 70MG CPR B/4                176/                          2        1                                   1
+                                 AURO102 AUROTHRIN 500MG CPR PELL B/3       184/    400          8       33        1        5       13        1        4
+                                 AURO103 AUROTHRIN 200MG/5ML SP F/15ML         /                 4        4        6        5        1        2        1
+                                 AURO104 AUROTHER 20MG/120MG CPR DISP B     619/    450         67       68       38      107       68       32       31
+                                         /6
+                                 AURO105 AUROTHER 40MG/240MG CPR B/12       201/                 2       14        9        9        9        5        1
+                                 AURO107 AUROTHER 80MG/480MG CPR B/6        914/                39      122      108       96       62       39       15
+                                 BONA106 BONACEF 100MG CPR DISP B/10           /     20                                     5       15        5        3
+                                 BONA107 BONACEF 200MG CPR PELL B/10           /                                                    20       18       43
+                                 BONA108 BONACEF 400MG CPR PELL B/7            /    240          9       13        9        4        2        1
+                                 CHON124 CHONDROFLEX GEL B/30               110/                 6        5       11       12        4       11       13
+                                 CLAR273 CLARICIN 500MG CPR B/10            497/    600         28        7       12       33        6       18       25
+                                 FEVE100 FEVERLET FORTE CPR B/12           3135/   1800        202      248      179      209      162      132      150
+                                 LACT209 LACTIV SOL VAG F/200ML             895/    504         70       49      102      112       56       45       23
+                                 SCAR100 SCARID GEL T/15G                    83/    150         16       35       20        6       12        7        7
+                                 SOLF103 SOLFER SP F/200ML                    1/    560         27       75       25       11       25       46       18
+                                 SOLF104 SOLFER FORTE GEL B/30             1028/   3300        385      959       57       57      117       29       44
+                                 WELF100 WELFIL 10MG CPR PELL B/4            57/     60          3        5        2        8       14        4        6
+                                 WELF101 WELFIL 20MG CPR PELL B/4           184/                 3        7       14       15       19        8       19
+                                                                                           -------- -------- -------- -------- -------- -------- --------
+ Sous total fournisseur                                                                        955     1851      654      727      655      473      460
+                                                                                           -------- -------- -------- -------- -------- -------- --------
+ Total  pays/prégion                                                                           955     1851      654      727      655      473      460
+ UbiPharm Mali                           PRDF870              Statistiques PAYS / Région                                        Le  8.12.25  à  19:17:43    Page   2
+ Pays/Région  232/B  BAMAKO EST
+                                                                                            Ventes
+ Fournisseur                     Produit                                Stocks / CR          11/25      M-1      M-2      M-3      M-4      M-5      M-6
+ ------------------------------  -------------------------------------- ---------------    -------- -------- -------- -------- -------- -------- --------
+ PLANETPHARMA DISTRI UE HORS FR
+                                 ALCO237 ALCOF-C SP F/100ML                    /   2040         75      111       60       62       42       25       37
+                                 ALFO102 ALFOSA 70MG CPR B/4                176/                                                                       1
+                                 AURO102 AUROTHRIN 500MG CPR PELL B/3       184/    400         34       59       31       36       38       23       35
+                                 AURO103 AUROTHRIN 200MG/5ML SP F/15ML         /                 3       16        3        1        4                 1
+                                 AURO104 AUROTHER 20MG/120MG CPR DISP B     619/    450          6       11        4        8        2        3
+                                         /6
+                                 AURO105 AUROTHER 40MG/240MG CPR B/12       201/                                   5
+                                 AURO107 AUROTHER 80MG/480MG CPR B/6        914/                 4        9       13       11        4        3        1
+                                 BONA106 BONACEF 100MG CPR DISP B/10           /     20                                     2        2
+                                 BONA107 BONACEF 200MG CPR PELL B/10           /                                                     3        1
+                                 BONA108 BONACEF 400MG CPR PELL B/7            /    240                            1                 8                 2
+                                 CHON124 CHONDROFLEX GEL B/30               110/                          3        4        8        1        2        7
+                                 CLAR273 CLARICIN 500MG CPR B/10            497/    600         31        5       16       15       15                12
+                                 FEVE100 FEVERLET FORTE CPR B/12           3135/   1800         35       37       56       27       42       17       48
+                                 LACT209 LACTIV SOL VAG F/200ML             895/    504         11       17       38       75       64       21       32
+                                 SCAR100 SCARID GEL T/15G                    83/    150          1       11        2        1        8        5        1
+                                 SOLF103 SOLFER SP F/200ML                    1/    560          6        7       10        4                 4        1
+                                 SOLF104 SOLFER FORTE GEL B/30             1028/   3300         21       25       22       45      126       36       26
+                                 WELF100 WELFIL 10MG CPR PELL B/4            57/     60          2        1                 3
+                                 WELF101 WELFIL 20MG CPR PELL B/4           184/                 3        2       10        7        8        6
+                                                                                           -------- -------- -------- -------- -------- -------- --------
+ Sous total fournisseur                                                                        232      314      275      305      367      146      204
+                                                                                           -------- -------- -------- -------- -------- -------- --------
+ Total  pays/prégion                                                                           232      314      275      305      367      146      204
+ UbiPharm Mali                           PRDF870              Statistiques PAYS / Région                                        Le  8.12.25  à  19:17:43    Page   3
+ Pays/Région  232/C  BAMAKO CENTRE
+                                                                                            Ventes
+ Fournisseur                     Produit                                Stocks / CR          11/25      M-1      M-2      M-3      M-4      M-5      M-6
+ ------------------------------  -------------------------------------- ---------------    -------- -------- -------- -------- -------- -------- --------
+ PLANETPHARMA DISTRI UE HORS FR
+                                 ALCO237 ALCOF-C SP F/100ML                    /   2040         26      105       13       34       23       61       51
+                                 ALFO101 ALFOSA 35MG CPR B/4                163/
+                                 ALFO102 ALFOSA 70MG CPR B/4                176/
+                                 AURO102 AUROTHRIN 500MG CPR PELL B/3       184/    400         28       30        5        8       28        8       12
+                                 AURO103 AUROTHRIN 200MG/5ML SP F/15ML         /                 9       18       16       10       13                 2
+                                 AURO104 AUROTHER 20MG/120MG CPR DISP B     619/    450         15        7       24        8       11
+                                         /6
+                                 AURO105 AUROTHER 40MG/240MG CPR B/12       201/                         34       29                10        1
+                                 AURO107 AUROTHER 80MG/480MG CPR B/6        914/                37      202       63       17       54        8       29
+                                 BONA106 BONACEF 100MG CPR DISP B/10           /     20
+                                 BONA107 BONACEF 200MG CPR PELL B/10           /
+                                 BONA108 BONACEF 400MG CPR PELL B/7            /    240                                     2        6        4        2
+                                 CHON124 CHONDROFLEX GEL B/30               110/                          9        2        2        2                20
+                                 CLAR273 CLARICIN 500MG CPR B/10            497/    600         11       12       15        3       36       10       12
+                                 FEVE100 FEVERLET FORTE CPR B/12           3135/   1800         21       26       38       13       62       24       11
+                                 LACT209 LACTIV SOL VAG F/200ML             895/    504         29       17      106       18       27       24       23
+                                 SCAR100 SCARID GEL T/15G                    83/    150         12        9        7                 9        4        5
+                                 SOLF103 SOLFER SP F/200ML                    1/    560          2        4        1        3
+                                 SOLF104 SOLFER FORTE GEL B/30             1028/   3300         19       51       53       35       83       94       63
+                                 WELF100 WELFIL 10MG CPR PELL B/4            57/     60         12                 7        3        3
+                                 WELF101 WELFIL 20MG CPR PELL B/4           184/                 3        3        8                18        6        3
+                                                                                           -------- -------- -------- -------- -------- -------- --------
+ Sous total fournisseur                                                                        224      527      387      156      385      244      233
+                                                                                           -------- -------- -------- -------- -------- -------- --------
+ Total  pays/prégion                                                                           224      527      387      156      385      244      233
+ UbiPharm Mali                           PRDF870              Statistiques PAYS / Région                                        Le  8.12.25  à  19:17:43    Page   4
+ Pays/Région  232/D  BAMAKO OUEST
+                                                                                            Ventes
+ Fournisseur                     Produit                                Stocks / CR          11/25      M-1      M-2      M-3      M-4      M-5      M-6
+ ------------------------------  -------------------------------------- ---------------    -------- -------- -------- -------- -------- -------- --------
+ PLANETPHARMA DISTRI UE HORS FR
+                                 ALCO237 ALCOF-C SP F/100ML                    /   2040          6       76        8       10       13       18        7
+                                 ALFO101 ALFOSA 35MG CPR B/4                163/
+                                 ALFO102 ALFOSA 70MG CPR B/4                176/                          2
+                                 AURO102 AUROTHRIN 500MG CPR PELL B/3       184/    400          3        1                 1       20        5        5
+                                 AURO103 AUROTHRIN 200MG/5ML SP F/15ML         /                                                     1
+                                 AURO104 AUROTHER 20MG/120MG CPR DISP B     619/    450                   4       36       18        1
+                                         /6
+                                 AURO105 AUROTHER 40MG/240MG CPR B/12       201/                          2                 4        2                 1
+                                 AURO107 AUROTHER 80MG/480MG CPR B/6        914/                13       64       42       12       14        7
+                                 BONA106 BONACEF 100MG CPR DISP B/10           /     20                                     3        5                 5
+                                 BONA107 BONACEF 200MG CPR PELL B/10           /                                                              5       30
+                                 BONA108 BONACEF 400MG CPR PELL B/7            /    240         42                15                 1        2
+                                 CHON124 CHONDROFLEX GEL B/30               110/                          2                          8        3        3
+                                 CLAR273 CLARICIN 500MG CPR B/10            497/    600         16       15        3       14        2        6       17
+                                 FEVE100 FEVERLET FORTE CPR B/12           3135/   1800         66       41       39       70       52       32       58
+                                 LACT209 LACTIV SOL VAG F/200ML             895/    504         34       36       13       56       57       27       18
+                                 SCAR100 SCARID GEL T/15G                    83/    150          1        8        5                 8        1        2
+                                 SOLF103 SOLFER SP F/200ML                    1/    560          4        4        5        2        4        1
+                                 SOLF104 SOLFER FORTE GEL B/30             1028/   3300         35       55       18       26       93       27       21
+                                 WELF100 WELFIL 10MG CPR PELL B/4            57/     60                   1        1        8                13        1
+                                 WELF101 WELFIL 20MG CPR PELL B/4           184/                10                 5       16                 8        6
+                                                                                           -------- -------- -------- -------- -------- -------- --------
+ Sous total fournisseur                                                                        230      311      190      240      281      155      174
+                                                                                           -------- -------- -------- -------- -------- -------- --------
+ Total  pays/prégion                                                                           230      311      190      240      281      155      174
+ UbiPharm Mali                           PRDF870              Statistiques PAYS / Région                                        Le  8.12.25  à  19:17:43    Page   5
+ Pays/Région  232/01 KAYES
+                                                                                            Ventes
+ Fournisseur                     Produit                                Stocks / CR          11/25      M-1      M-2      M-3      M-4      M-5      M-6
+ ------------------------------  -------------------------------------- ---------------    -------- -------- -------- -------- -------- -------- --------
+ PLANETPHARMA DISTRI UE HORS FR
+                                 ALCO237 ALCOF-C SP F/100ML                    /   2040                   4        3                 6        2        3
+                                 ALFO102 ALFOSA 70MG CPR B/4                176/
+                                 AURO102 AUROTHRIN 500MG CPR PELL B/3       184/    400                                     3        2        6        3
+                                 AURO103 AUROTHRIN 200MG/5ML SP F/15ML         /                                  14
+                                 AURO104 AUROTHER 20MG/120MG CPR DISP B     619/    450                            3        6                 2
+                                         /6
+                                 AURO105 AUROTHER 40MG/240MG CPR B/12       201/                          5        5                10
+                                 AURO107 AUROTHER 80MG/480MG CPR B/6        914/                36       53       12        8       20                11
+                                 BONA106 BONACEF 100MG CPR DISP B/10           /     20                                              2                 2
+                                 BONA107 BONACEF 200MG CPR PELL B/10           /                                                    15
+                                 BONA108 BONACEF 400MG CPR PELL B/7            /    240         25                 2                          2
+                                 CHON124 CHONDROFLEX GEL B/30               110/                 2       15        6
+                                 CLAR273 CLARICIN 500MG CPR B/10            497/    600                            1                                   5
+                                 FEVE100 FEVERLET FORTE CPR B/12           3135/   1800          9        9        7        5       10        7        5
+                                 LACT209 LACTIV SOL VAG F/200ML             895/    504        192       72      210       55       44       15       25
+                                 SCAR100 SCARID GEL T/15G                    83/    150          1                                            3
+                                 SOLF103 SOLFER SP F/200ML                    1/    560         19       19       24        7        4       12        8
+                                 SOLF104 SOLFER FORTE GEL B/30             1028/   3300         12      106        5       32       88       22       38
+                                 WELF100 WELFIL 10MG CPR PELL B/4            57/     60          2        5                                            2
+                                 WELF101 WELFIL 20MG CPR PELL B/4           184/                                   2                 1
+                                                                                           -------- -------- -------- -------- -------- -------- --------
+ Sous total fournisseur                                                                        298      288      294      116      202       71      102
+                                                                                           -------- -------- -------- -------- -------- -------- --------
+ Total  pays/prégion                                                                           298      288      294      116      202       71      102
+ UbiPharm Mali                           PRDF870              Statistiques PAYS / Région                                        Le  8.12.25  à  19:17:43    Page   6
+ Pays/Région  232/02 KOULIKORO
+                                                                                            Ventes
+ Fournisseur                     Produit                                Stocks / CR          11/25      M-1      M-2      M-3      M-4      M-5      M-6
+ ------------------------------  -------------------------------------- ---------------    -------- -------- -------- -------- -------- -------- --------
+ PLANETPHARMA DISTRI UE HORS FR
+                                 ALCO237 ALCOF-C SP F/100ML                    /   2040         17       54       20        3        9       27       29
+                                 ALFO101 ALFOSA 35MG CPR B/4                163/
+                                 ALFO102 ALFOSA 70MG CPR B/4                176/
+                                 AURO102 AUROTHRIN 500MG CPR PELL B/3       184/    400         17        2                 7        4        5        2
+                                 AURO103 AUROTHRIN 200MG/5ML SP F/15ML         /                                  36                 2        3        1
+                                 AURO104 AUROTHER 20MG/120MG CPR DISP B     619/    450                   5       12       34                          6
+                                         /6
+                                 AURO105 AUROTHER 40MG/240MG CPR B/12       201/                                   1        4                          1
+                                 AURO107 AUROTHER 80MG/480MG CPR B/6        914/                 3       20        4        5       11        7
+                                 BONA106 BONACEF 100MG CPR DISP B/10           /     20                                     1                 1
+                                 BONA107 BONACEF 200MG CPR PELL B/10           /                                                     5        2
+                                 BONA108 BONACEF 400MG CPR PELL B/7            /    240          4        2
+                                 CHON124 CHONDROFLEX GEL B/30               110/                 6        1                 4        3        2        2
+                                 CLAR273 CLARICIN 500MG CPR B/10            497/    600          5                 6        6                 5        9
+                                 FEVE100 FEVERLET FORTE CPR B/12           3135/   1800         41       48      101       47       53       88      110
+                                 LACT209 LACTIV SOL VAG F/200ML             895/    504          8        3       50       14       22        5        9
+                                 SCAR100 SCARID GEL T/15G                    83/    150          3       20        6        1        4        9        4
+                                 SOLF103 SOLFER SP F/200ML                    1/    560          4       12       16       25        4        5        4
+                                 SOLF104 SOLFER FORTE GEL B/30             1028/   3300         50       23       30      177      270       18       78
+                                 WELF100 WELFIL 10MG CPR PELL B/4            57/     60          3                 4        4        3        1        6
+                                 WELF101 WELFIL 20MG CPR PELL B/4           184/                 1                 5        4        5        1        6
+                                                                                           -------- -------- -------- -------- -------- -------- --------
+ Sous total fournisseur                                                                        162      190      291      336      395      179      267
+                                                                                           -------- -------- -------- -------- -------- -------- --------
+ Total  pays/prégion                                                                           162      190      291      336      395      179      267
+ UbiPharm Mali                           PRDF870              Statistiques PAYS / Région                                        Le  8.12.25  à  19:17:43    Page   7
+ Pays/Région  232/03 SIKASSO
+                                                                                            Ventes
+ Fournisseur                     Produit                                Stocks / CR          11/25      M-1      M-2      M-3      M-4      M-5      M-6
+ ------------------------------  -------------------------------------- ---------------    -------- -------- -------- -------- -------- -------- --------
+ PLANETPHARMA DISTRI UE HORS FR
+                                 ALCO237 ALCOF-C SP F/100ML                    /   2040         13       84       21       14        4       11       15
+                                 ALFO101 ALFOSA 35MG CPR B/4                163/                                                     1                 2
+                                 ALFO102 ALFOSA 70MG CPR B/4                176/                                                                       1
+                                 AURO102 AUROTHRIN 500MG CPR PELL B/3       184/    400          3        3        1                 3        1        2
+                                 AURO103 AUROTHRIN 200MG/5ML SP F/15ML         /                12        1                 5
+                                 AURO104 AUROTHER 20MG/120MG CPR DISP B     619/    450         14       22       27       26       14       19       11
+                                         /6
+                                 AURO105 AUROTHER 40MG/240MG CPR B/12       201/                 5                 2        2                 1        3
+                                 AURO107 AUROTHER 80MG/480MG CPR B/6        914/                13       54       18       12        3        9
+                                 BONA106 BONACEF 100MG CPR DISP B/10           /     20                                                       1        3
+                                 BONA107 BONACEF 200MG CPR PELL B/10           /                                                              4        6
+                                 BONA108 BONACEF 400MG CPR PELL B/7            /    240          1        3                 1        1        4
+                                 CHON124 CHONDROFLEX GEL B/30               110/                 3        1                          2        5
+                                 CLAR273 CLARICIN 500MG CPR B/10            497/    600         10       53       32       63       49       43       30
+                                 FEVE100 FEVERLET FORTE CPR B/12           3135/   1800        143      153      106      155       58      125      121
+                                 LACT209 LACTIV SOL VAG F/200ML             895/    504        176       60      396       87       71       96       59
+                                 SCAR100 SCARID GEL T/15G                    83/    150         27       42        7       19       23        9        9
+                                 SOLF103 SOLFER SP F/200ML                    1/    560         12       52       15       23       14       28        4
+                                 SOLF104 SOLFER FORTE GEL B/30             1028/   3300        148      214      140      170      194      220      124
+                                 WELF100 WELFIL 10MG CPR PELL B/4            57/     60         14        1        7        4        6        4        1
+                                 WELF101 WELFIL 20MG CPR PELL B/4           184/                 4        2       11        7        6        1        4
+                                                                                           -------- -------- -------- -------- -------- -------- --------
+ Sous total fournisseur                                                                        598      745      783      588      449      581      395
+                                                                                           -------- -------- -------- -------- -------- -------- --------
+ Total  pays/prégion                                                                           598      745      783      588      449      581      395
+ UbiPharm Mali                           PRDF870              Statistiques PAYS / Région                                        Le  8.12.25  à  19:17:43    Page   8
+ Pays/Région  232/04 SEGOU
+                                                                                            Ventes
+ Fournisseur                     Produit                                Stocks / CR          11/25      M-1      M-2      M-3      M-4      M-5      M-6
+ ------------------------------  -------------------------------------- ---------------    -------- -------- -------- -------- -------- -------- --------
+ PLANETPHARMA DISTRI UE HORS FR
+                                 ALCO237 ALCOF-C SP F/100ML                    /   2040          4       15       11                 3       10        6
+                                 AURO102 AUROTHRIN 500MG CPR PELL B/3       184/    400                                              1
+                                 AURO103 AUROTHRIN 200MG/5ML SP F/15ML         /
+                                 AURO104 AUROTHER 20MG/120MG CPR DISP B     619/    450                  36        1       24        5
+                                         /6
+                                 AURO105 AUROTHER 40MG/240MG CPR B/12       201/                                  12                 5
+                                 AURO107 AUROTHER 80MG/480MG CPR B/6        914/                 5                 2        1        6                 1
+                                 BONA106 BONACEF 100MG CPR DISP B/10           /     20                            1-                1        1
+                                 BONA107 BONACEF 200MG CPR PELL B/10           /                                            1-      55        6       67
+                                 BONA108 BONACEF 400MG CPR PELL B/7            /    240          1                 1-      48                 2        1
+                                 CHON124 CHONDROFLEX GEL B/30               110/
+                                 CLAR273 CLARICIN 500MG CPR B/10            497/    600          1                 2        1        4        1        4
+                                 FEVE100 FEVERLET FORTE CPR B/12           3135/   1800         81       47      106       58       90       40       87
+                                 LACT209 LACTIV SOL VAG F/200ML             895/    504          2        5        2        2        6        1
+                                 SCAR100 SCARID GEL T/15G                    83/    150                            1        1        4        1        1
+                                 SOLF103 SOLFER SP F/200ML                    1/    560          4       13       12        1                          2
+                                 SOLF104 SOLFER FORTE GEL B/30             1028/   3300         14      176      369       60       15       10       13
+                                 WELF100 WELFIL 10MG CPR PELL B/4            57/     60                            2        3        1
+                                 WELF101 WELFIL 20MG CPR PELL B/4           184/                          2        2        4
+                                                                                           -------- -------- -------- -------- -------- -------- --------
+ Sous total fournisseur                                                                        112      294      520      202      196       72      182
+                                                                                           -------- -------- -------- -------- -------- -------- --------
+ Total  pays/prégion                                                                           112      294      520      202      196       72      182
+ UbiPharm Mali                           PRDF870              Statistiques PAYS / Région                                        Le  8.12.25  à  19:17:43    Page   9
+ Pays/Région  232/05 MOPTI
+                                                                                            Ventes
+ Fournisseur                     Produit                                Stocks / CR          11/25      M-1      M-2      M-3      M-4      M-5      M-6
+ ------------------------------  -------------------------------------- ---------------    -------- -------- -------- -------- -------- -------- --------
+ PLANETPHARMA DISTRI UE HORS FR
+                                 ALCO237 ALCOF-C SP F/100ML                    /   2040         43      303       55       66       89       63      101
+                                 AURO102 AUROTHRIN 500MG CPR PELL B/3       184/    400                                                       1
+                                 AURO103 AUROTHRIN 200MG/5ML SP F/15ML         /
+                                 AURO104 AUROTHER 20MG/120MG CPR DISP B     619/    450                   6
+                                         /6
+                                 AURO105 AUROTHER 40MG/240MG CPR B/12       201/                         19        7                                   2
+                                 AURO107 AUROTHER 80MG/480MG CPR B/6        914/                 7       24       12       10        4       13       11
+                                 BONA106 BONACEF 100MG CPR DISP B/10           /     20
+                                 BONA107 BONACEF 200MG CPR PELL B/10           /                                                     1
+                                 BONA108 BONACEF 400MG CPR PELL B/7            /    240          2        4                 1
+                                 CHON124 CHONDROFLEX GEL B/30               110/                          3        3        2        6        6
+                                 CLAR273 CLARICIN 500MG CPR B/10            497/    600        215-     216                          1                 2
+                                 FEVE100 FEVERLET FORTE CPR B/12           3135/   1800         16       36       41       14       12       33       12
+                                 LACT209 LACTIV SOL VAG F/200ML             895/    504         18        5       32        6        6        1        5
+                                 SCAR100 SCARID GEL T/15G                    83/    150                                     2
+                                 SOLF103 SOLFER SP F/200ML                    1/    560          2        7       32        3        5                 1
+                                 SOLF104 SOLFER FORTE GEL B/30             1028/   3300         12       18       15        5       23        4       14
+                                 WELF100 WELFIL 10MG CPR PELL B/4            57/     60          1
+                                 WELF101 WELFIL 20MG CPR PELL B/4           184/                 1
+                                                                                           -------- -------- -------- -------- -------- -------- --------
+ Sous total fournisseur                                                                        113-     641      197      109      147      121      148
+                                                                                           -------- -------- -------- -------- -------- -------- --------
+ Total  pays/prégion                                                                           113-     641      197      109      147      121      148

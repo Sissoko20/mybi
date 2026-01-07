@@ -1,0 +1,33 @@
+[menu]
+title = "BI Pharma Mali"
+orientation = "horizontal"
+
+[client]
+# Désactive la navigation automatique du dossier pages
+showSidebarNavigation = false
+
+[browser]
+gatherUsageStats = true
+
+[[menu.pages]]
+name = "Refactoring"
+icon = "⚙️"
+file = "pages.refactoring"
+
+[[menu.pages]]
+name = "Analyse"
+icon = "📊"
+file = "pages.analyse"
+
+[[menu.pages]]
+name = "Stocks"
+icon = "📦"
+file = "pages.stocks"
+
+
+[server]
+runOnSave = true
+headless = true
+enableCORS = true
+enableXsrfProtection = true
+port = 8501
