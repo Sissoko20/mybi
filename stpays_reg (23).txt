@@ -1,5 +1,5 @@
- UbiPharm Mali                           PRDF870              Statistiques PAYS / Région                                        Le  8.12.25  à  19:17:43    Page   1
- Pays/Région  232/A  BAMAKO RIVE DROITE
+ UbiPharm Mali                           PRDF870              Statistiques PAYS / Rï¿½gion                                        Le  8.12.25  ï¿½  19:17:43    Page   1
+ Pays/Rï¿½gion  232/A  BAMAKO RIVE DROITE
                                                                                             Ventes
  Fournisseur                     Produit                                Stocks / CR          11/25      M-1      M-2      M-3      M-4      M-5      M-6
  ------------------------------  -------------------------------------- ---------------    -------- -------- -------- -------- -------- -------- --------
@@ -28,9 +28,9 @@
                                                                                            -------- -------- -------- -------- -------- -------- --------
  Sous total fournisseur                                                                        955     1851      654      727      655      473      460
                                                                                            -------- -------- -------- -------- -------- -------- --------
- Total  pays/prégion                                                                           955     1851      654      727      655      473      460
- UbiPharm Mali                           PRDF870              Statistiques PAYS / Région                                        Le  8.12.25  à  19:17:43    Page   2
- Pays/Région  232/B  BAMAKO EST
+ Total  pays/prï¿½gion                                                                           955     1851      654      727      655      473      460
+ UbiPharm Mali                           PRDF870              Statistiques PAYS / Rï¿½gion                                        Le  8.12.25  ï¿½  19:17:43    Page   2
+ Pays/Rï¿½gion  232/B  BAMAKO EST
                                                                                             Ventes
  Fournisseur                     Produit                                Stocks / CR          11/25      M-1      M-2      M-3      M-4      M-5      M-6
  ------------------------------  -------------------------------------- ---------------    -------- -------- -------- -------- -------- -------- --------
@@ -58,9 +58,9 @@
                                                                                            -------- -------- -------- -------- -------- -------- --------
  Sous total fournisseur                                                                        232      314      275      305      367      146      204
                                                                                            -------- -------- -------- -------- -------- -------- --------
- Total  pays/prégion                                                                           232      314      275      305      367      146      204
- UbiPharm Mali                           PRDF870              Statistiques PAYS / Région                                        Le  8.12.25  à  19:17:43    Page   3
- Pays/Région  232/C  BAMAKO CENTRE
+ Total  pays/prï¿½gion                                                                           232      314      275      305      367      146      204
+ UbiPharm Mali                           PRDF870              Statistiques PAYS / Rï¿½gion                                        Le  8.12.25  ï¿½  19:17:43    Page   3
+ Pays/Rï¿½gion  232/C  BAMAKO CENTRE
                                                                                             Ventes
  Fournisseur                     Produit                                Stocks / CR          11/25      M-1      M-2      M-3      M-4      M-5      M-6
  ------------------------------  -------------------------------------- ---------------    -------- -------- -------- -------- -------- -------- --------
@@ -89,9 +89,9 @@
                                                                                            -------- -------- -------- -------- -------- -------- --------
  Sous total fournisseur                                                                        224      527      387      156      385      244      233
                                                                                            -------- -------- -------- -------- -------- -------- --------
- Total  pays/prégion                                                                           224      527      387      156      385      244      233
- UbiPharm Mali                           PRDF870              Statistiques PAYS / Région                                        Le  8.12.25  à  19:17:43    Page   4
- Pays/Région  232/D  BAMAKO OUEST
+ Total  pays/prï¿½gion                                                                           224      527      387      156      385      244      233
+ UbiPharm Mali                           PRDF870              Statistiques PAYS / Rï¿½gion                                        Le  8.12.25  ï¿½  19:17:43    Page   4
+ Pays/Rï¿½gion  232/D  BAMAKO OUEST
                                                                                             Ventes
  Fournisseur                     Produit                                Stocks / CR          11/25      M-1      M-2      M-3      M-4      M-5      M-6
  ------------------------------  -------------------------------------- ---------------    -------- -------- -------- -------- -------- -------- --------
@@ -120,9 +120,9 @@
                                                                                            -------- -------- -------- -------- -------- -------- --------
  Sous total fournisseur                                                                        230      311      190      240      281      155      174
                                                                                            -------- -------- -------- -------- -------- -------- --------
- Total  pays/prégion                                                                           230      311      190      240      281      155      174
- UbiPharm Mali                           PRDF870              Statistiques PAYS / Région                                        Le  8.12.25  à  19:17:43    Page   5
- Pays/Région  232/01 KAYES
+ Total  pays/prï¿½gion                                                                           230      311      190      240      281      155      174
+ UbiPharm Mali                           PRDF870              Statistiques PAYS / Rï¿½gion                                        Le  8.12.25  ï¿½  19:17:43    Page   5
+ Pays/Rï¿½gion  232/01 KAYES
                                                                                             Ventes
  Fournisseur                     Produit                                Stocks / CR          11/25      M-1      M-2      M-3      M-4      M-5      M-6
  ------------------------------  -------------------------------------- ---------------    -------- -------- -------- -------- -------- -------- --------
@@ -150,9 +150,9 @@
                                                                                            -------- -------- -------- -------- -------- -------- --------
  Sous total fournisseur                                                                        298      288      294      116      202       71      102
                                                                                            -------- -------- -------- -------- -------- -------- --------
- Total  pays/prégion                                                                           298      288      294      116      202       71      102
- UbiPharm Mali                           PRDF870              Statistiques PAYS / Région                                        Le  8.12.25  à  19:17:43    Page   6
- Pays/Région  232/02 KOULIKORO
+ Total  pays/prï¿½gion                                                                           298      288      294      116      202       71      102
+ UbiPharm Mali                           PRDF870              Statistiques PAYS / Rï¿½gion                                        Le  8.12.25  ï¿½  19:17:43    Page   6
+ Pays/Rï¿½gion  232/02 KOULIKORO 
                                                                                             Ventes
  Fournisseur                     Produit                                Stocks / CR          11/25      M-1      M-2      M-3      M-4      M-5      M-6
  ------------------------------  -------------------------------------- ---------------    -------- -------- -------- -------- -------- -------- --------
@@ -181,9 +181,9 @@
                                                                                            -------- -------- -------- -------- -------- -------- --------
  Sous total fournisseur                                                                        162      190      291      336      395      179      267
                                                                                            -------- -------- -------- -------- -------- -------- --------
- Total  pays/prégion                                                                           162      190      291      336      395      179      267
- UbiPharm Mali                           PRDF870              Statistiques PAYS / Région                                        Le  8.12.25  à  19:17:43    Page   7
- Pays/Région  232/03 SIKASSO
+ Total  pays/prï¿½gion                                                                           162      190      291      336      395      179      267
+ UbiPharm Mali                           PRDF870              Statistiques PAYS / Rï¿½gion                                        Le  8.12.25  ï¿½  19:17:43    Page   7
+ Pays/Rï¿½gion  232/03 SIKASSO
                                                                                             Ventes
  Fournisseur                     Produit                                Stocks / CR          11/25      M-1      M-2      M-3      M-4      M-5      M-6
  ------------------------------  -------------------------------------- ---------------    -------- -------- -------- -------- -------- -------- --------
@@ -212,9 +212,9 @@
                                                                                            -------- -------- -------- -------- -------- -------- --------
  Sous total fournisseur                                                                        598      745      783      588      449      581      395
                                                                                            -------- -------- -------- -------- -------- -------- --------
- Total  pays/prégion                                                                           598      745      783      588      449      581      395
- UbiPharm Mali                           PRDF870              Statistiques PAYS / Région                                        Le  8.12.25  à  19:17:43    Page   8
- Pays/Région  232/04 SEGOU
+ Total  pays/prï¿½gion                                                                           598      745      783      588      449      581      395
+ UbiPharm Mali                           PRDF870              Statistiques PAYS / Rï¿½gion                                        Le  8.12.25  ï¿½  19:17:43    Page   8
+ Pays/Rï¿½gion  232/04 SEGOU
                                                                                             Ventes
  Fournisseur                     Produit                                Stocks / CR          11/25      M-1      M-2      M-3      M-4      M-5      M-6
  ------------------------------  -------------------------------------- ---------------    -------- -------- -------- -------- -------- -------- --------
@@ -241,9 +241,9 @@
                                                                                            -------- -------- -------- -------- -------- -------- --------
  Sous total fournisseur                                                                        112      294      520      202      196       72      182
                                                                                            -------- -------- -------- -------- -------- -------- --------
- Total  pays/prégion                                                                           112      294      520      202      196       72      182
- UbiPharm Mali                           PRDF870              Statistiques PAYS / Région                                        Le  8.12.25  à  19:17:43    Page   9
- Pays/Région  232/05 MOPTI
+ Total  pays/prï¿½gion                                                                           112      294      520      202      196       72      182
+ UbiPharm Mali                           PRDF870              Statistiques PAYS / Rï¿½gion                                        Le  8.12.25  ï¿½  19:17:43    Page   9
+ Pays/Rï¿½gion  232/05 MOPTI
                                                                                             Ventes
  Fournisseur                     Produit                                Stocks / CR          11/25      M-1      M-2      M-3      M-4      M-5      M-6
  ------------------------------  -------------------------------------- ---------------    -------- -------- -------- -------- -------- -------- --------
@@ -270,4 +270,4 @@
                                                                                            -------- -------- -------- -------- -------- -------- --------
  Sous total fournisseur                                                                        113-     641      197      109      147      121      148
                                                                                            -------- -------- -------- -------- -------- -------- --------
- Total  pays/prégion                                                                           113-     641      197      109      147      121      148
+ Total  pays/prï¿½gion                                                                           113-     641      197      109      147      121      148

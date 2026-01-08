@@ -1,36 +1,39 @@
 import streamlit as st
 import pandas as pd
 import re
-from io import BytesIO
 
 def parse_ubipharm_txt(txt_content):
     lines = txt_content.splitlines()
     region = None
     data = []
+    totals = []
 
     for line in lines:
         # Détecter la région
-        region_match = re.search(r'Pays/R[ée]gion\s+\d+/\w+\s+(.*)', line)
+        region_match = re.search(r'Pays.*R.gion\s+\d+/\w+\s+(.*)', line)
         if region_match:
             region = region_match.group(1).strip()
 
-        # Détecter les lignes produit avec colonnes explicites
+        # Détecter les lignes produit
         product_match = re.match(
-            r'\s+([A-Z0-9]+)\s+(.+?)\s+([\d/ ]+)\s+(\d+)\s+(\d+)\s+(\d+)\s+(\d+)\s+(\d+)\s+(\d+)\s+(\d+)',
+            r'\s+([A-Z0-9]+)\s+(.+?)\s+([\d/ ]+)\s+(\d+)?\s*(\d+)?\s*(\d+)?\s*(\d+)?\s*(\d+)?\s*(\d+)?\s*(\d+)?',
             line
         )
-        if product_match:
+        if product_match and region:
             code = product_match.group(1).strip()
             name = product_match.group(2).strip()
             stock_cr = product_match.group(3).strip()
 
-            # Extraire stock et CR
-            stock_match = re.match(r'(\d+)?/?\s*(\d+)?', stock_cr)
+            # Stock / CR
+            stock_match = re.match(r'(\d+)?\s*/\s*(\d+)?', stock_cr)
             stock = int(stock_match.group(1)) if stock_match and stock_match.group(1) else None
             cr = int(stock_match.group(2)) if stock_match and stock_match.group(2) else None
 
-            # Colonnes ventes (11/25, M-1 … M-6)
-            sales = [int(product_match.group(i)) for i in range(4, 11)]
+            # Ventes
+            sales = []
+            for i in range(4, 11):
+                val = product_match.group(i)
+                sales.append(int(val) if val and val.isdigit() else 0)
 
             data.append({
                 "Région": region,
@@ -47,40 +50,45 @@ def parse_ubipharm_txt(txt_content):
                 "M-6": sales[6],
             })
 
-    return pd.DataFrame(data)
+        # Détecter la ligne de total pays/région
+        total_match = re.match(r'Total\s+pays.*r.gion\s+(\d+)?\s*/\s*(\d+)?', line, re.IGNORECASE)
+        if total_match and region:
+            stock_total = int(total_match.group(1)) if total_match.group(1) else None
+            cr_total = int(total_match.group(2)) if total_match.group(2) else None
+            totals.append({
+                "Région": region,
+                "Stock Total": stock_total,
+                "CR Total": cr_total
+            })
 
-def run():
-    st.header("⚙️ Refactoring des données")
-    uploaded_file = st.file_uploader("Upload fichier TXT brut", type="txt")
-    if uploaded_file:
-        txt_content = uploaded_file.read().decode("utf-8", errors="ignore")
-        df = parse_ubipharm_txt(txt_content)
+    return pd.DataFrame(data), pd.DataFrame(totals)
+
+# --- Page Refactoring ---
+st.header("⚙️ Refactoring des données")
+uploaded_file = st.file_uploader("Upload fichier TXT brut", type="txt")
+
+if uploaded_file:
+    txt_content = uploaded_file.read().decode("utf-8", errors="ignore")
+    df_products, df_totals = parse_ubipharm_txt(txt_content)
+
+    if df_products.empty:
+        st.warning("Le parsing n’a retourné aucune ligne. Vérifiez le format du fichier TXT.")
+    else:
         st.success("✅ Fichier parsé avec succès")
 
-        # Sélecteur de colonnes
-        st.subheader("🧩 Sélection des colonnes à exporter")
-        selected_cols = st.multiselect(
-            "Choisissez les colonnes à garder",
-            options=df.columns.tolist(),
-            default=df.columns.tolist()
-        )
+        # Vue globale produits
+        st.subheader("🌍 Vue globale : tous les produits")
+        st.dataframe(df_products, use_container_width=True)
 
-        # Bouton pour appliquer le filtrage
-        if st.button("Appliquer le filtrage"):
-            filtered_df = df[selected_cols]
+        # Vue par région
+        st.subheader("📋 Produits regroupés par région")
+        regions = df_products["Région"].dropna().unique()
+        for region in regions:
+            st.markdown(f"### 📍 {region}")
+            region_df = df_products[df_products["Région"] == region]
+            st.dataframe(region_df, use_container_width=True)
 
-            # Affichage
-            st.dataframe(filtered_df)
-
-            # Export Excel
-            output = BytesIO()
-            with pd.ExcelWriter(output, engine="openpyxl") as writer:
-                filtered_df.to_excel(writer, index=False, sheet_name="Ventes")
-            excel_data = output.getvalue()
-
-            st.download_button(
-                label="📥 Télécharger Excel",
-                data=excel_data,
-                file_name="ventes_refactorées.xlsx",
-                mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
-            )
+        # Totaux par région
+        if not df_totals.empty:
+            st.subheader("📊 Totaux par région (ligne 'Total pays/région')")
+            st.dataframe(df_totals, use_container_width=True)

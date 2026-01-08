@@ -1,29 +1,8 @@
-[menu]
-title = "BI Pharma Mali"
-orientation = "horizontal"
-
 [client]
-# Désactive la navigation automatique du dossier pages
-showSidebarNavigation = false
+showSidebarNavigation = true   # Active la navigation native
 
 [browser]
 gatherUsageStats = true
-
-[[menu.pages]]
-name = "Refactoring"
-icon = "⚙️"
-file = "pages.refactoring"
-
-[[menu.pages]]
-name = "Analyse"
-icon = "📊"
-file = "pages.analyse"
-
-[[menu.pages]]
-name = "Stocks"
-icon = "📦"
-file = "pages.stocks"
-
 
 [server]
 runOnSave = true

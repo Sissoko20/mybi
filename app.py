@@ -1,22 +1,17 @@
 import streamlit as st
-import toml
-import importlib
-from streamlit_option_menu import option_menu
 
-# Charger config TOML
-config = toml.load(".streamlit/config.toml")
-menu_conf = config["menu"]
-
-# Menu horizontal
-selected = option_menu(
-    menu_conf["title"],
-    [page["name"] for page in menu_conf["pages"]],
-    icons=[page["icon"] for page in menu_conf["pages"]],
-    orientation=menu_conf["orientation"]
+st.set_page_config(
+    page_title="BI Pharma Mali",
+    page_icon="💊",
+    layout="wide"
 )
 
-# Router vers la bonne page
-for page in menu_conf["pages"]:
-    if selected == page["name"]:
-        module = importlib.import_module(page["file"])  # ex: "pages.refactoring"
-        module.run()
+st.title("BI Pharma Mali")
+st.write("Bienvenue dans votre application BI Pharma Mali.")
+
+st.markdown("""
+Utilisez le menu **Pages** (dans la barre latérale) pour naviguer :
+- ⚙️ Refactoring
+- 📊 Analyse
+- 📦 Stocks
+""")
