@@ -56,17 +56,31 @@ def run():
         txt_content = uploaded_file.read().decode("utf-8", errors="ignore")
         df = parse_ubipharm_txt(txt_content)
         st.success("✅ Fichier parsé avec succès")
-        st.dataframe(df)
 
-        # Export Excel
-        output = BytesIO()
-        with pd.ExcelWriter(output, engine="openpyxl") as writer:
-            df.to_excel(writer, index=False, sheet_name="Ventes")
-        excel_data = output.getvalue()
-
-        st.download_button(
-            label="📥 Télécharger Excel",
-            data=excel_data,
-            file_name="ventes_refactorées.xlsx",
-            mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        # Sélecteur de colonnes
+        st.subheader("🧩 Sélection des colonnes à exporter")
+        selected_cols = st.multiselect(
+            "Choisissez les colonnes à garder",
+            options=df.columns.tolist(),
+            default=df.columns.tolist()
         )
+
+        # Bouton pour appliquer le filtrage
+        if st.button("Appliquer le filtrage"):
+            filtered_df = df[selected_cols]
+
+            # Affichage
+            st.dataframe(filtered_df)
+
+            # Export Excel
+            output = BytesIO()
+            with pd.ExcelWriter(output, engine="openpyxl") as writer:
+                filtered_df.to_excel(writer, index=False, sheet_name="Ventes")
+            excel_data = output.getvalue()
+
+            st.download_button(
+                label="📥 Télécharger Excel",
+                data=excel_data,
+                file_name="ventes_refactorées.xlsx",
+                mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+            )
