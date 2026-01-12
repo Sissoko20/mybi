@@ -4,9 +4,3 @@ showSidebarNavigation = true   # Active la navigation native
 [browser]
 gatherUsageStats = true
 
-[server]
-runOnSave = true
-headless = true
-enableCORS = true
-enableXsrfProtection = true
-port = 8501
